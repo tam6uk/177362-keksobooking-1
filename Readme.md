@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Тамби Мерза](https://up.htmlacademy.ru/javascript/10/user/177362).
-* Наставник: `Неизвестно`.
+* Наставник: `Нет`.
 
 ---
 
